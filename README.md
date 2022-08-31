@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuleymanGoktepe
 - 👀 I’m interested in Internships
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C
+- 🌱I know Java,Processing.
 - 📫 How to reach me selimhangoktepe@gmail.com
 
 <!---
